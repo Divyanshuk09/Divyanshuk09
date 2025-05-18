@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack development.<br>👯 I’m looking to collaborate on any kind of projects and startup.<br>🌱 I’m currently learning backend development.<br>💬 Ask me about HTML. CSS, JS, React, Tailwind<br>⚡ Fun fact : i like anime and movies
+🔭 I’m currently working on full stack development(MERN).<br>👯 I’m looking to collaborate on any kind of projects and startup.<br>🌱 I’m currently learning backend development.<br>💬 Ask me about HTML. CSS, JS, MERN.<br>⚡ Fun fact : i like anime and movies
 
 
 ## 🌐 Socials:
